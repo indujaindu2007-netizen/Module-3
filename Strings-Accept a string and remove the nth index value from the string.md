@@ -32,6 +32,9 @@ Output
 <img width="377" height="232" alt="image" src="https://github.com/user-attachments/assets/f22259a9-4962-41a8-b79e-6bb14d0677ec" />
 
 Result
+
+
+
 Thus, the Python program successfully removes the character at the specified index from the given string and prints the modified string.
 
 
